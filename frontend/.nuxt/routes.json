@@ -1,0 +1,44 @@
+[
+  {
+    "name": "categories",
+    "path": "/categories",
+    "component": "/home/ubuntux44baseserver/belajar/lumen/bacabuku/frontend/pages/categories/index.vue",
+    "chunkName": "pages/categories/index",
+    "_name": "_5c54018e"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/home/ubuntux44baseserver/belajar/lumen/bacabuku/frontend/pages/login/index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_4c110902"
+  },
+  {
+    "name": "users",
+    "path": "/users",
+    "component": "/home/ubuntux44baseserver/belajar/lumen/bacabuku/frontend/pages/users/index.vue",
+    "chunkName": "pages/users/index",
+    "_name": "_4cef2ce1"
+  },
+  {
+    "name": "users-add",
+    "path": "/users/add",
+    "component": "/home/ubuntux44baseserver/belajar/lumen/bacabuku/frontend/pages/users/add/index.vue",
+    "chunkName": "pages/users/add/index",
+    "_name": "_397a7d1a"
+  },
+  {
+    "name": "users-edit-id",
+    "path": "/users/edit/:id",
+    "component": "/home/ubuntux44baseserver/belajar/lumen/bacabuku/frontend/pages/users/edit/_id/index.vue",
+    "chunkName": "pages/users/edit/_id/index",
+    "_name": "_52ae470e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/ubuntux44baseserver/belajar/lumen/bacabuku/frontend/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_da572ab0"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "nuxt-lumen",
+  "version": "1.0.0",
+  "description": "nuxt-lumen",
+  "author": "nuxt-lumen",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/auth": "^4.8.5",
+    "@nuxtjs/axios": "^5.9.4",
+    "bootstrap-vue": "^2.4.1",
+    "cookie-universal-nuxt": "^2.1.4",
+    "nuxt": "^2.0.0"
+  }
+}
