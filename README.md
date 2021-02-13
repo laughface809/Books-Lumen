@@ -2,4 +2,4 @@
 
 Lumen - Nuxt - Middleware
 
-https://auth.nuxtjs.org/guide/middleware
+useful link : https://auth.nuxtjs.org/guide/middleware
