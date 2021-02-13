@@ -1,4 +1,4 @@
-# Lumen-ClientSide
+# Lumen6
 
 Lumen - Nuxt - Middleware
 
